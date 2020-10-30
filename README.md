@@ -1,14 +1,6 @@
 
 ## DSTest dev **[UAT Demo](http://dev-dstest.dredward.site)** || DSTest uat **[UAT Demo](http://uat-dstest.dredward.site)**
 
-## Status: 
-* Frontend: Terminado
-* Backend: Terminado
-* API: Terminado
-* Integración continua: Terminado con CircleCi
-* Pruebas de integración: Pendiente
-* Pruebas unitarias: al 50%
-
 ## Instalación rápida
 
 1. Clonar este repo
